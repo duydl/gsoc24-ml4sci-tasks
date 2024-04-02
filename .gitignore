@@ -1,0 +1,9 @@
+*.pyc
+
+# Data files
+*.off
+*.pt
+*.npz
+
+logs
+data
